@@ -32,8 +32,8 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * [Test cases](https://drive.google.com/file/d/1-0bun6MrNUucm30faB6l7OF4ceRMSe8s/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR BONITO.PL
-* [Można założyć konto wpisując litery w polu "Numer telefonu".](https://docs.google.com/document/d/11rTrkkzwO01i4yxVKdCSx0JGFaYoxTpS/edit?usp=sharing&ouid=109663402133389546335&rtpof=true&sd=true)
-* [Można założyć konto wpisując same spacje jako hasło.](https://docs.google.com/document/d/1uH7WYJC2CkuXdYjHhM79Uc6zsCJ9V84I/edit?usp=sharing&ouid=109663402133389546335&rtpof=true&sd=true)
+* [Można założyć konto wpisując litery w polu "Numer telefonu"](https://docs.google.com/document/d/11rTrkkzwO01i4yxVKdCSx0JGFaYoxTpS/edit?usp=sharing&ouid=109663402133389546335&rtpof=true&sd=true)
+* [Można założyć konto wpisując same spacje jako hasło](https://docs.google.com/document/d/1uH7WYJC2CkuXdYjHhM79Uc6zsCJ9V84I/edit?usp=sharing&ouid=109663402133389546335&rtpof=true&sd=true)
 
 ## MY REPORT
 ## MY REPORT FOR BONITO.PL
