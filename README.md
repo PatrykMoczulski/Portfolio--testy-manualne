@@ -5,6 +5,7 @@ I am young student with many technical skills. I am very motivated to become QA
 * Jira
 * TestLink
 * GitHub
+* Chrome Developer Tools
 ## TECH SKIILS
 * Software testing
 * Creating test cases
